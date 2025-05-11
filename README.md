@@ -9,7 +9,7 @@
 ## 🛠️ Skills & Technologies
 
 - **Languages**: JavaScript (Node.js)
-- **Frameworks**: Express.js
+- **Frameworks**: Express.js, Discord.js
 - **Databases**: MongoDB, PostgreSQL
 - **Tools**: Git, GitHub, REST APIs, Webhooks
 
